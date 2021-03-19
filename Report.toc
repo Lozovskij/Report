@@ -1,0 +1,6 @@
+\babel@toc {russian}{}
+~\hfill {C.}\par 
+\contentsline {chapter}{\numberline {1}\IeC {\CYRT }\IeC {\cyre }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrya }}{3}% 
+\contentsline {chapter}{\numberline {2}\IeC {\CYRP }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyra }}{6}% 
+\contentsline {chapter}{\IeC {\CYRS }\IeC {\CYRP }\IeC {\CYRI }\IeC {\CYRS }\IeC {\CYRO }\IeC {\CYRK } \IeC {\CYRI }\IeC {\CYRS }\IeC {\CYRP }\IeC {\CYRO }\IeC {\CYRL }\IeC {\CYRSFTSN }\IeC {\CYRZ }\IeC {\CYRO }\IeC {\CYRV }\IeC {\CYRA }\IeC {\CYRN }\IeC {\CYRN }\IeC {\CYRO }\IeC {\CYRISHRT } \IeC {\CYRL }\IeC {\CYRI }\IeC {\CYRT }\IeC {\CYRE }\IeC {\CYRR }\IeC {\CYRA }\IeC {\CYRT }\IeC {\CYRU }\IeC {\CYRR }\IeC {\CYRERY }}{15}% 
+\contentsfinish 
